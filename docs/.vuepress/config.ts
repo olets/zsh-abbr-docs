@@ -168,9 +168,6 @@ export default defineUserConfig<DefaultThemeOptions>({
     navbar: navbar,
     sidebar: sidebar,
     sidebarDepth: 3,
-    themePlugins: {
-      externalLinkIcon: false,
-    }
   },
 
   // plugins
